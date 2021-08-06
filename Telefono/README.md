@@ -1,4 +1,3 @@
-![Tec de Monterrey](../../images/logotecmty.png)
 # Teléfono
 Básicos-Costo del teléfono
 
