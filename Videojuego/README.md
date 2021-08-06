@@ -1,4 +1,3 @@
-![Tec de Monterrey](../../images/logotecmty.png)
 # Videojuegos
 Básicos-Videojuegos
 
